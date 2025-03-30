@@ -115,4 +115,5 @@ This application uses End-to-End Encryption (E2EE) to achieve confidentiality an
 
 ### Screenshot
 
-![alt text](https://github.com/koko-puffs/SecureChat/raw/master/screenshot.png "Screenshot of application in use")
+![Screenshot 1](https://raw.githubusercontent.com/koko-puffs/SecureChat/refs/heads/main/screenshot1.png "Selecting your username")
+![Screenshot 2](https://raw.githubusercontent.com/koko-puffs/SecureChat/refs/heads/main/screenshot2.png "Chatting with another user")
