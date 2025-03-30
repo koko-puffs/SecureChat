@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jr4vVk2K4P5CN0tTDpPEnfz7yWbpZ/Ew9Jh6ehvjlDE=",
+  "Source": "SecureChatBackend",
+  "BasePath": "_content/SecureChatBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
