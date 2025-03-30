@@ -32,7 +32,7 @@ The frontend is built with Vue 3 and uses the standard Web Crypto API (`SubtleCr
 
 2.  **Run the Backend Server:**
     ```bash
-    cd backend
+    cd SecureChatBackend
     dotnet restore # Installs dependencies
     dotnet run
     ```
@@ -42,7 +42,7 @@ The frontend is built with Vue 3 and uses the standard Web Crypto API (`SubtleCr
     *   Open a **new terminal window/tab**.
     *   Navigate to the frontend directory:
         ```bash
-        cd ../frontend
+        cd ../SecureChatFrontend
         npm install # Installs dependencies
         npm run dev # Starts the Vite development server
         ```
@@ -113,7 +113,7 @@ This application uses End-to-End Encryption (E2EE) to achieve confidentiality an
 *   **Server Trust:** Users must trust the server to relay public keys correctly and not substitute them during the exchange.
 *   **Metadata:** The server knows *who* is talking to *whom* and *when*, just not *what* they are saying.
 
-### Screenshot
+### Screenshots
 
 ![Screenshot 1](https://raw.githubusercontent.com/koko-puffs/SecureChat/refs/heads/main/screenshot1.png "Selecting your username")
 ![Screenshot 2](https://raw.githubusercontent.com/koko-puffs/SecureChat/refs/heads/main/screenshot2.png "Chatting with another user")
