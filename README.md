@@ -55,7 +55,7 @@ The frontend is built with Vue 3 and uses the standard Web Crypto API (`SubtleCr
 
 ## How to Use
 
-1.  **Login:** In each browser window, enter a **unique username** and click "Login".
+1.  **Login:** In each browser window, enter a **unique username** and click "Connect".
 2.  **User List:** Once logged in, you should see the list of other online users in the sidebar on the left.
 3.  **Select User:** Click on the username of the person you want to chat with in the sidebar.
 4.  **Chat:** The chat window for the selected user will appear. The application will automatically perform a key exchange (ECDH) in the background to establish a secure channel. Once the "Establishing secure connection..." message disappears, you can type your message in the input field at the bottom and press Enter or click "Send".
