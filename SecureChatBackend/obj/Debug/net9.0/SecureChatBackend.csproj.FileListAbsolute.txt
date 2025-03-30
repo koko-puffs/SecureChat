@@ -47,3 +47,4 @@ C:\Users\aerom\Documents\GitHub\SecureChat\SecureChatBackend\obj\Debug\net9.0\re
 C:\Users\aerom\Documents\GitHub\SecureChat\SecureChatBackend\obj\Debug\net9.0\SecureChatBackend.pdb
 C:\Users\aerom\Documents\GitHub\SecureChat\SecureChatBackend\obj\Debug\net9.0\SecureChatBackend.genruntimeconfig.cache
 C:\Users\aerom\Documents\GitHub\SecureChat\SecureChatBackend\obj\Debug\net9.0\ref\SecureChatBackend.dll
+C:\Users\aerom\Documents\GitHub\SecureChat\SecureChatBackend\obj\Debug\net9.0\SecureChatBackend.sourcelink.json
