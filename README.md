@@ -36,7 +36,7 @@ The frontend is built with Vue 3 and uses the standard Web Crypto API (`SubtleCr
     dotnet restore # Installs dependencies
     dotnet run
     ```
-    The backend server should now be running, typically listening on `http://localhost:5000` and `https://localhost:5001` (check console output for exact ports). The SignalR hub is available at `/chathub`.
+    The backend server should now be running, typically listening on `http://localhost:5000` and `https://localhost:5001`, but in my case it ran on `http://localhost:5087` (check console output for exact ports).
 
 3.  **Run the Frontend Application:**
     *   Open a **new terminal window/tab**.
