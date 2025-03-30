@@ -26,7 +26,7 @@ The frontend is built with Vue 3 and uses the standard Web Crypto API (`SubtleCr
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/koko-puffs/SecureChat
     cd SecureChat
     ```
 
@@ -113,6 +113,6 @@ This application uses End-to-End Encryption (E2EE) to achieve confidentiality an
 *   **Server Trust:** Users must trust the server to relay public keys correctly and not substitute them during the exchange.
 *   **Metadata:** The server knows *who* is talking to *whom* and *when*, just not *what* they are saying.
 
-### Screenshots
+### Screenshot
 
-Coming soon.
+![alt text](https://github.com/koko-puffs/SecureChat/raw/master/screenshot.png "Screenshot of application in use")
